@@ -32,11 +32,12 @@ def main(ticker_filter=None, account_filter=None):
             pl = value - cost
             shares_in_contract = 100
             contracts = int(shares/shares_in_contract)
-            optionable_value = contracts * 100 * bid
+            optionable_value = contracts * shares_in_contract * bid
+            avg_price_per_share = cost / shares
 
             target_percentages = [7, 10, 20]
             target_percentages = range(5, 25, 5)
-            print(f"{symbol} cost: {cost} value: {value} p/l: {round(pl, 2)} contracts: {contracts}\n")
+            print(f"{symbol} cost: {cost} value: {round(value, 2)} p/l: {round(pl, 2)} contracts: {contracts} avg pps: {round(avg_price_per_share, 3)}\n")
 
             periods = {"year": 1, "month": 12, "week": 52}
 

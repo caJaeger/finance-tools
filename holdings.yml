@@ -9,8 +9,8 @@ brokerage:
     shares: 105
     cost: 3193.36 
   - symbol: apph
-    shares: 77
-    cost: 1926.69
+    shares: 100
+    cost: 2492.49
   - symbol: tell
     shares: 2000
     cost: 6055.33
