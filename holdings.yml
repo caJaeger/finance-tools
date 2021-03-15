@@ -1,0 +1,39 @@
+brokerage:
+  - symbol: pltr
+    shares: 2760
+    cost: 73562.93
+  - symbol: spce
+    shares: 150
+    cost: 3897.12
+  - symbol: ktos
+    shares: 105
+    cost: 3193.36 
+  - symbol: apph
+    shares: 77
+    cost: 1926.69
+  - symbol: tell
+    shares: 2000
+    cost: 6055.33
+traditional:
+  - symbol: pltr
+    shares: 800
+    cost: 21165.82
+    #- symbol: arkg
+    #shares: 105
+    #cost: 11307.02
+  - symbol: arkk
+    shares: 100
+    cost: 14613.88
+  - symbol: tan
+    shares: 100
+    cost: 11413.15
+ira:
+  - symbol: pltr
+    shares: 1000
+    cost: 28199.21
+  - symbol: tsm
+    shares: 100
+    cost: 12754.46 
+  - symbol: tell
+    shares: 1000
+    cost: 3404.48
