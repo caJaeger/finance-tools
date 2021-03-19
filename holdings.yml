@@ -1,7 +1,7 @@
 brokerage:
   - symbol: pltr
-    shares: 2760
-    cost: 73562.93
+    shares: 2790
+    cost: 74432.76
   - symbol: spce
     shares: 150
     cost: 3897.12
@@ -12,12 +12,12 @@ brokerage:
     shares: 100
     cost: 2492.49
   - symbol: tell
-    shares: 2000
-    cost: 6055.33
+    shares: 2040
+    cost: 6162.71
 traditional:
   - symbol: pltr
-    shares: 800
-    cost: 21165.82
+    shares: 815
+    cost: 21544.85
     #- symbol: arkg
     #shares: 105
     #cost: 11307.02
@@ -37,3 +37,13 @@ ira:
   - symbol: tell
     shares: 1000
     cost: 3404.48
+  - symbol: dnn
+    shares: 669.35
+    cost: 550
+tastyworks:
+  - symbol: tell
+    shares: 300
+    cost: 873
+  - symbol: dnn
+    shares: 100
+    cost: 130
