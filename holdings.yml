@@ -38,8 +38,8 @@ ira:
     shares: 1000
     cost: 3404.48
   - symbol: dnn
-    shares: 669.35
-    cost: 550
+    shares: 550
+    cost: 669.35
 tastyworks:
   - symbol: tell
     shares: 300
