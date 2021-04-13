@@ -1,7 +1,7 @@
 brokerage:
   - symbol: pltr
-    shares: 2800
-    cost: 74648.01
+    shares: 3000
+    cost: 79298.01
   - symbol: spce
     shares: 125
     cost: 3105.26
